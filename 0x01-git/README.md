@@ -1,2 +1,2 @@
 Some text for this read me
-i love the kheerah
+i want to be a dev
